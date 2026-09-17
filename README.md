@@ -215,4 +215,4 @@ Rail Simulator is offered as a **full free version**, featuring all updates and 
 Don't wait! Experience the thrill of being a train driver today by downloading Rail Simulator for free!
 
 ---
-**Last updated:** 2026-09-17 07:08:32 UTC
+**Last updated:** 2026-09-17 13:01:48 UTC
